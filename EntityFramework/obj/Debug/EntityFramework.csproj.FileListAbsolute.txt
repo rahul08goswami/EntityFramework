@@ -1,0 +1,12 @@
+C:\Users\rahul\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\Users\rahul\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+C:\Users\rahul\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\rahul\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\rahul\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rahul\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\rahul\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rahul\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.AssemblyReference.cache
+C:\Users\rahul\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\rahul\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFr.4B064B60.Up2Date
+C:\Users\rahul\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+C:\Users\rahul\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb
